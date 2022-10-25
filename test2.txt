@@ -1,1 +1,3 @@
 TEST2 dosyası oluşturuldu.
+
+TEST2 test-bracnh içerisine değiştirildi. 
